@@ -1,4 +1,4 @@
-#### Заметка по скриптингу с jquery-ujs
+#### Cкриптинг с jquery-ujs
 Все это есть в [wiki](https://github.com/rails/jquery-ujs) jquery-ujs
 
 Библиотека jquery-ujs позволяет перехватывать и назначать события для элементов при помощи data-атрибутов:  
